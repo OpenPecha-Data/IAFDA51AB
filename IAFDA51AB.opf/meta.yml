@@ -1,0 +1,23 @@
+id: IAFDA51AB
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-SG-01
+  title: ༄༅། །སྨོན་པ་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པ་ཐེག་ཆེན་ལམ་གྱི་སྙིང་པོའོ། །
+  author: མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
+  authors: &id001
+  - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
+  sku: IBA-SG-01
+  cover: Sonam-Gyaltsen-Series-1.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །སྨོན་པ་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པ་ཐེག་ཆེན་ལམ་གྱི་སྙིང་པོའོ། །
+  authors: *id001
+  sku: IBA-SG-01
+  cover: Sonam-Gyaltsen-Series-1.jpg
+layers:
+- Author
+- BookTitle
+- Citation
+- Commentary
+- Sabche
+- Tsawa
